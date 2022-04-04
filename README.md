@@ -1,7 +1,7 @@
 # perceptionTest
 This is a program that implements a simple java GUI called jOptionPane
 It involves the use of cards similar to the Zener cards
-Thr program flow is as follows:
+The program flow is as follows:
 1.Ask the user to select which aspect they wish to test: 
 shape, color or both. This can only be done at the 
 beginning of the program. 
